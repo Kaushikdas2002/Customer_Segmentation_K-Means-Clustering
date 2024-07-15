@@ -20,10 +20,10 @@ The dataset used for this project is the Mall Customer dataset, which typically 
 2. **Determine Optimal Number of Clusters**  
 -**Elbow Method**: Plot the sum of squared distances from each point to its assigned cluster center and look for the "elbow" point where the curve bends.  
 
-3. **Apply K-Means clustering**
+3. **Apply K-Means clustering**  
 -**Fit the Model**: Apply the K-means algorithm to the preprocessed data using the optimal number of clusters.    
 
-4. **Visualization**
+4. **Visualization**  
 -**Visualize Clusters**: Create scatter plots and other visualizations to observe the distribution of customers across different clusters based on key features like Age, Annual Income, and Spending Score.
 
 ## Outcomes
